@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM shovanmohanty6/ubuntu
 
 ADD Blob /var/www/html/
 
